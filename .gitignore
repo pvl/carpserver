@@ -4,4 +4,6 @@ venv/
 .ipynb_checkpoints/
 *.pyc
 .envrc
+*.egg-info/
 models/*.pt
+localnotebooks/
